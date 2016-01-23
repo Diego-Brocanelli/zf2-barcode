@@ -9,7 +9,7 @@ Este é o repositório do [tutorial](http://www.diegobrocanelli.com.br/uncategor
 Instalação
 ----------
 
-Na raiz do seu projeto utilize o comando:
+No diretório raiz do seu projeto utilize o comando:
 
     composer install
 
