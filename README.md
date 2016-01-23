@@ -15,7 +15,7 @@ No diretório raiz do seu projeto utilize o comando:
 
     composer install
 
-Caso o composer não está instalado globalmente em seu SO. Deve ser utilizado o seguinte comando:
+Caso o composer não esteja instalado globalmente em seu SO. Deve ser utilizado o seguinte comando:
 
     php composer.phar install
 
