@@ -18,6 +18,6 @@ Web Server Setup
 
 ### PHP CLI Server
 
-Para realizar o teste é bem simples, basta rodar o comando abaixo na raiz do seu projeto.
+Para acessar o projeto é bem simples, basta rodar o comando abaixo na raiz do seu projeto.
 
     php -S localhost:8080 -t public/ public/index.php
