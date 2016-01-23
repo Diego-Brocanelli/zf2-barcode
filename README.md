@@ -4,7 +4,7 @@ Construção de código de barras com o componente Zend\Barcode
 Introdução
 ----------
 
-Este é um breve tutorial para demonstra a facilidade em implementar um código de barras utilizando o componente Zend\Barcode.
+Este é o repositório do [tutorial](http://www.diegobrocanelli.com.br/uncategorized/codigos-de-barra-com-zend-framework-2/) para demonstra a facilidade em implementar um código de barras utilizando o componente Zend\Barcode.
 
 Instalação
 ----------
